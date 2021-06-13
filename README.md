@@ -1,5 +1,6 @@
 # Algorithm_01
 > 20190323 배인경
+<hr/>
 
 ### Model-1
 #### 1. Model 
@@ -13,6 +14,7 @@
 ![image](https://user-images.githubusercontent.com/65646971/121798659-867afb00-cc62-11eb-817b-1f7c55a4b455.png)
 #### 5. Images and corresponding probability that predicted Wrong
 ![image](https://user-images.githubusercontent.com/65646971/121798663-8a0e8200-cc62-11eb-9af8-d52b66ef28dd.png)
+<hr/>
 
 ### Model-2
 #### 1. Model 
@@ -26,6 +28,7 @@
 ![image](https://user-images.githubusercontent.com/65646971/121798672-9db9e880-cc62-11eb-805a-dd04cc88ba1b.png)
 #### 5. Images and corresponding probability that predicted Wrong
 ![image](https://user-images.githubusercontent.com/65646971/121798674-a14d6f80-cc62-11eb-8e22-4ee3507757b9.png)
+<hr/>
 
 ### Model-3
 #### 1. Model 
